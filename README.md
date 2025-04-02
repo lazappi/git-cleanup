@@ -1,7 +1,7 @@
 # git-cleanup
 
 A bash script for cleaning up git repositories.
-It checks of old branches that can be safely deleted.
+It checks for old branches that can be safely deleted in your local repo.
 
 ## Usage
 
